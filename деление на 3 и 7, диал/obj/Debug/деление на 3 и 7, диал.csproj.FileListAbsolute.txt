@@ -1,0 +1,7 @@
+C:\Users\Воппер\source\repos\деление на 3 и 7, диал\деление на 3 и 7, диал\bin\Debug\деление на 3 и 7, диал.exe.config
+C:\Users\Воппер\source\repos\деление на 3 и 7, диал\деление на 3 и 7, диал\bin\Debug\деление на 3 и 7, диал.exe
+C:\Users\Воппер\source\repos\деление на 3 и 7, диал\деление на 3 и 7, диал\bin\Debug\деление на 3 и 7, диал.pdb
+C:\Users\Воппер\source\repos\деление на 3 и 7, диал\деление на 3 и 7, диал\obj\Debug\деление на 3 и 7, диал.csprojAssemblyReference.cache
+C:\Users\Воппер\source\repos\деление на 3 и 7, диал\деление на 3 и 7, диал\obj\Debug\деление на 3 и 7, диал.csproj.CoreCompileInputs.cache
+C:\Users\Воппер\source\repos\деление на 3 и 7, диал\деление на 3 и 7, диал\obj\Debug\деление на 3 и 7, диал.exe
+C:\Users\Воппер\source\repos\деление на 3 и 7, диал\деление на 3 и 7, диал\obj\Debug\деление на 3 и 7, диал.pdb

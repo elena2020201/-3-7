@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "деление на 3 и 7, диал", "деление на 3 и 7, диал\деление на 3 и 7, диал.csproj", "{DBBF6D17-1484-4F2C-ACD8-A55359017954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBBF6D17-1484-4F2C-ACD8-A55359017954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBBF6D17-1484-4F2C-ACD8-A55359017954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBBF6D17-1484-4F2C-ACD8-A55359017954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBBF6D17-1484-4F2C-ACD8-A55359017954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06C9ECEE-5FE2-4BCE-9325-69637DE58CA4}
+	EndGlobalSection
+EndGlobal
